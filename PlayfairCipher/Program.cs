@@ -52,7 +52,7 @@ namespace PlayfairCipher
             Timer aTimer = new System.Timers.Timer();
             aTimer.Interval = 50;
 
-            // Hook up the Elapsed event for the timer.
+            // Hook up the Elapsedd event for the timer.
             DateTime t = DateTime.Now; 
             aTimer.Elapsed += (sender, e) => OnTimedEvent(sender, e, EncriptedCharTab, t);
 
