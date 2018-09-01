@@ -1,0 +1,13 @@
+c:\users\varimatras\documents\visual studio 2015\Projects\PlayfairCipher\PlayfairCipher\bin\Debug\PlayfairCipher.exe.config
+c:\users\varimatras\documents\visual studio 2015\Projects\PlayfairCipher\PlayfairCipher\bin\Debug\PlayfairCipher.exe
+c:\users\varimatras\documents\visual studio 2015\Projects\PlayfairCipher\PlayfairCipher\bin\Debug\PlayfairCipher.pdb
+c:\users\varimatras\documents\visual studio 2015\Projects\PlayfairCipher\PlayfairCipher\obj\Debug\PlayfairCipher.csprojResolveAssemblyReference.cache
+c:\users\varimatras\documents\visual studio 2015\Projects\PlayfairCipher\PlayfairCipher\obj\Debug\PlayfairCipher.exe
+c:\users\varimatras\documents\visual studio 2015\Projects\PlayfairCipher\PlayfairCipher\obj\Debug\PlayfairCipher.pdb
+C:\Users\Tomas\source\repos\PlayfairCipher\PlayfairCipher\bin\Debug\PlayfairCipher.exe.config
+C:\Users\Tomas\source\repos\PlayfairCipher\PlayfairCipher\bin\Debug\PlayfairCipher.exe
+C:\Users\Tomas\source\repos\PlayfairCipher\PlayfairCipher\bin\Debug\PlayfairCipher.pdb
+C:\Users\Tomas\source\repos\PlayfairCipher\PlayfairCipher\obj\Debug\PlayfairCipher.csprojAssemblyReference.cache
+C:\Users\Tomas\source\repos\PlayfairCipher\PlayfairCipher\obj\Debug\PlayfairCipher.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\source\repos\PlayfairCipher\PlayfairCipher\obj\Debug\PlayfairCipher.exe
+C:\Users\Tomas\source\repos\PlayfairCipher\PlayfairCipher\obj\Debug\PlayfairCipher.pdb
